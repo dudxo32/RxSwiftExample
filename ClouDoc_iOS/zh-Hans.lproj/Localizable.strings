@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  ClouDoc_iOS
+
+  Created by mac on 2022/02/17.
+  
+*/
+insertId = "请输入账户。";
+insertPassword = "请输入密码。";
+login = "登录";
+loginSetting="登录设置";
